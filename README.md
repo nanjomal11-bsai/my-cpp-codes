@@ -37,7 +37,7 @@ int main(){
     return 0;
 }
 ```
-Sample Output:
+## 📌 Expected Output
 Enter size 5
 Enter elements
 1 2 2 3 1
@@ -77,7 +77,7 @@ int main (){
 }
 ```
 
-Sample Output:
+## 📌 Expected Output
 Enter string: hello
 olleh
 ________________________________________
@@ -118,7 +118,7 @@ int main(){
     }
 }
 ```
-Sample Output:
+## 📌 Expected Output
 UnSorted Array :
 7 8 6 3 5
 Sorted Array
@@ -166,7 +166,7 @@ int main(){
     return 0;
 }
 ```
-Sample Output:
+## 📌 Expected Output
 Enter elements: 1 2 3 4 5 6 7 8 9 10
 Enter number you want to search: 5
 Element found at index 4
@@ -199,7 +199,7 @@ int main(){
     return 0;
 }
 ```
-Sample Output:
+## 📌 Expected Output
 Before swapping
 a = 5
 b = 10
