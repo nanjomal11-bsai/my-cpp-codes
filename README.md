@@ -1,10 +1,11 @@
-```cpp
- C++ Programs Collection 
+
+## ## 📌 C++ Programs Collection 
 ________________________________________
-Program 1: Frequency of Each Number in Array
+## Program 1: Frequency of Each Number in Array
 Description: Counts how many times each unique number appears in the array.
+
+## Code:
 ```cpp
-Code:
 #include <iostream>
 using namespace std;
 
@@ -38,6 +39,7 @@ int main(){
 }
 ```
 ## 📌 Expected Output
+```text
 Enter size 5
 Enter elements
 1 2 2 3 1
@@ -46,11 +48,13 @@ Number 1 comes 2 times
 Number 2 comes 2 times
 Number 3 comes 1 times
 ________________________________________
+```
 
-Program 2: Reverse a String (Using Pointers)
+## Program 2: Reverse a String (Using Pointers)
 Description: Reverses a string using pointer manipulation.
+
+## Code:
 ```cpp
-Code:
 #include <iostream>
 using namespace std;
 
@@ -78,12 +82,16 @@ int main (){
 ```
 
 ## 📌 Expected Output
+```text
 Enter string: hello
 olleh
 ________________________________________
-Program 3: Bubble Sort (Using Pointers)
+```
+
+
+## Program 3: Bubble Sort (Using Pointers)
 Description: Sorts an array in ascending order using Bubble Sort with pointers.
-Code:
+## Code:
 ```cpp
 #include<iostream>
 using namespace std;
@@ -119,17 +127,19 @@ int main(){
 }
 ```
 ## 📌 Expected Output
+```text
 UnSorted Array :
 7 8 6 3 5
 Sorted Array
 3 5 6 7 8
 ________________________________________
+```
 
-Program 4: Search Element in Array
+## Program 4: Search Element in Array
 Description: Searches for a number in the array and returns its index if found.
 
+## Code:
 ```cpp
-Code:
 #include <iostream>
 using namespace std;
 
@@ -167,15 +177,18 @@ int main(){
 }
 ```
 ## 📌 Expected Output
+```text
 Enter elements: 1 2 3 4 5 6 7 8 9 10
 Enter number you want to search: 5
 Element found at index 4
 ________________________________________
+```
 
-```cpp
-Program 5: Swap Two Numbers (Using Pointers)
+
+## Program 5: Swap Two Numbers (Using Pointers)
 Description: Swaps two numbers using pointers.
-Code:
+## Code:
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -200,6 +213,7 @@ int main(){
 }
 ```
 ## 📌 Expected Output
+```text
 Before swapping
 a = 5
 b = 10
